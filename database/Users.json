@@ -1,0 +1,14 @@
+[
+    {
+        "userId": "1",
+        "userName": "kyzo",
+        "password": "kyzo",
+        "phoneNumber": "6281779334653"
+    },
+    {
+        "userId": "20",
+        "userName": "anotherUser",
+        "password": "securepass",
+        "phoneNumber": "6289876543210"
+    }
+]
