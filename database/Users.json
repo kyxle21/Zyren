@@ -6,6 +6,12 @@
         "phoneNumber": "6281779334653"
     },
     {
+        "userId": "2",
+        "userName": "Kyy",
+        "password": "Kyy",
+        "phoneNumber": "6281779334653"
+    },
+    {
         "userId": "20",
         "userName": "anotherUser",
         "password": "securepass",
